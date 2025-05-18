@@ -20,6 +20,7 @@ Install:
 - https://learn.microsoft.com/en-us/azure/storage/common/storage-use-azurite?tabs=npm%2Cblob-storage#install-azurite
 
 Run:
-- `which azurite and configure it here`
+- `which azurite`
 
+and configure it here
 ![alt text](rider-azurite-config.png)
