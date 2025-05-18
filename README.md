@@ -23,4 +23,5 @@ Run:
 - `which azurite`
 
 and configure it here
+
 ![alt text](rider-azurite-config.png)
